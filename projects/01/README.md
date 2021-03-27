@@ -5,8 +5,8 @@
 - [x] DMux8
 - [x] Mux
 - [x] Mux16
-- [ ] Mux4way16
-- [ ] Mux8way16
+- [x] Mux4way16
+- [x] Mux8way16
 - [x] Not
 - [x] Not16
 - [x] Or
