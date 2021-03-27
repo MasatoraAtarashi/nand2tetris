@@ -1,0 +1,10 @@
+CHIP Multiprexer {
+  IN a, b, sel;
+  OUT out;
+
+  PARTS:
+  Not(int=sel, out=notsel);
+  And(a=notsel, b=a, out=notsel_and_a);
+  And(a=sel, b=b, out=sel_and_b);
+  Or(a=notsel_and_a, b=sel_and_b, out=out); 
+}
