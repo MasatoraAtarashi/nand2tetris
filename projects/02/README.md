@@ -1,4 +1,4 @@
-- [ ] ALU
+- [x] ALU
 - [x] Add16
 - [x] FullAdder
 - [x] HalfAdder
