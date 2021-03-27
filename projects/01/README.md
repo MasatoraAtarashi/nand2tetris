@@ -1,0 +1,15 @@
+- [x] And
+- [x] And16
+- [x] DMux
+- [x] DMux4
+- [x] DMux8
+- [x] Mux
+- [x] Mux16
+- [ ] Mux4way16
+- [ ] Mux8way16
+- [x] Not
+- [x] Not16
+- [x] Or
+- [x] Or16
+- [x] Or8way
+- [x] Xor
